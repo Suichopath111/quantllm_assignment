@@ -1,3 +1,7 @@
+# quantllm_assignment
+
+北京大学量化课程作业与实验代码。本次提交整理了 CTP SimNow 教学 Demo，并收录按照课程课件要求挖掘的股票跳空寿命方向因子。
+
 # CTP SimNow 最小行情与阈值交易 Demo
 
 基于 `vnpy_ctp.api.MdApi` 和 `TdApi` 的行情与交易demo：处理底层回调，完成交易认证、行情订阅、Tick 打印及可选的一次性阈值开仓。
