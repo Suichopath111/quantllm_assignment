@@ -65,9 +65,9 @@ python -X utf8 main.py --trade-symbol rb2701 --threshold 3120 --enable-trading
 
 ## 课件因子研究
 
-目录 `gap-survival-factor/` 收录了按照课程课件要求挖掘的股票跳空寿命方向因子 `fill3_direction`。它完成了跳空事件定义、回补标签、滚动 Logistic 风险模型、训练/验证/历史复验切分，以及基于该因子的历史组合研究。
+`gap-survival-factor/` 收录了按照课程课件要求挖掘的股票跳空寿命方向因子 `fill3_direction`。完成了跳空事件定义、回补标签、滚动 Logistic 风险模型、训练/验证/历史复验切分，以及基于该因子的历史组合研究。
 
-该因子属于股票研究模块，与本目录的 CTP/SimNow 期货行情和阈值交易 Demo 分开；当前没有把股票因子直接接入期货下单。研究结果仅作课程学习与研究记录，README 中已披露其收益稳定性和数据限制。
+当前没有把股票因子直接接入期货下单。研究结果仅作课程学习与研究记录，README 中已披露其收益稳定性和数据限制
 
 ## 其他
 
