@@ -1,6 +1,5 @@
 {
   "factor": "fill3_direction",
   "validation": {"period": "2019-01-01/2021-12-31", "annual_excess": -0.0263},
-  "historical_final": {"period": "2022-01-01/2024-10-30", "rank_ic": 0.0129, "rank_ic_t_hac": 1.26, "rank_ic_ci95": [-0.0071, 0.0329], "net_cagr": 0.0378, "benchmark_cagr": -0.0072, "annual_excess": 0.0482, "excess_t_hac": 0.85, "excess_ci95": [-0.0625, 0.1591]},
-  "twenty_stock_oos": {"period": "2024-11-01/2026-09-17", "strategy_cagr": 0.5482, "benchmark_cagr": 0.8687, "annual_excess": -0.1460, "excess_ci95": [-0.7209, 0.4390], "rank_ic": -0.0103, "rank_ic_ci95": [-0.0821, 0.0615]}
+  "historical_final": {"period": "2022-01-01/2024-10-30", "rank_ic": 0.0129, "rank_ic_t_hac": 1.26, "rank_ic_ci95": [-0.0071, 0.0329], "net_cagr": 0.0378, "benchmark_cagr": -0.0072, "annual_excess": 0.0482, "excess_t_hac": 0.85, "excess_ci95": [-0.0625, 0.1591]}
 }

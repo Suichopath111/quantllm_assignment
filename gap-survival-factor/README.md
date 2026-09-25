@@ -89,7 +89,7 @@ fill3_direction = sign(gap) * (1 - 2 * P(fill within 3 days))
 
 - `factor.py`：只实现 `fill3_direction` 的特征、回补标签和分数计算。
 - `frozen_model.npz`：2008-2014固定训练模型参数。
-- `results/`：历史研究与20只股票样本外结果摘要。
+- `results/`：历史研究结果摘要。
 
 `factor.py` 复用研究环境中的 `gap_survival.py` 核心函数；完整训练和回测脚本仍保留在上级研究目录 `../projects/factor-research/`，本目录保存的是因子定义、冻结参数和可复核结果，避免把其他因子探索代码混入项目。
 
